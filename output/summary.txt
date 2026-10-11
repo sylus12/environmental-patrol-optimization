@@ -1,0 +1,3 @@
+greedy_total=160
+optimal_total=127
+improvement=20.6%
