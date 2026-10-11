@@ -37,7 +37,7 @@ python src/visualize.py
 | OR-Tools 优化求解 | **127 km** | 引导式局部搜索（GLS），限时 10s |
 | **里程降低** | **20.6%** | |
 
-![路线对比](https://raw.githubusercontent.com/sylus12/environmental-patrol-optimization/main/output/route_comparison.png)
+![路线对比](https://raw.githubusercontent.com/sylus12/environmental-patrol-optimization/main/output/route_comparison.png?v=2)
 
 ## 技术栈
 
